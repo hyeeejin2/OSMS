@@ -32,4 +32,4 @@ OSMS은 작업자가 장비에 접근 시 iOS 앱 Push 알림, LED, Buzzer를 �
  - **BLE, Zigbee** 통신을 통해 인체감지센서값**[작업장-센서-번호-감지여부]**을 서버로 전송
    
 ### 3. iOS 앱 알림 및 LED와 Buzzer ON
-- 작업자가 __장비에 가까이 접근__했을 때 **iOS 앱 알림, LED & Buzzer ON**
+- 작업자가 <u>장비에 가까이 접근</u>했을 때 **iOS 앱 알림, LED & Buzzer ON**
